@@ -31,12 +31,7 @@ The purpose of a recommendation system basically is to search for content that w
 
 # Demo:
 
-<img src="demo/1.png" alt="workflow" width="70%">
-
-<img src="demo/2.png" alt="workflow" width="70%">
-
-<img src="demo/3.png" alt="workflow" width="70%">
-
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGx6dHFiY2ZlZGZ5bmRpYjJseWJleWFyajlrYWF0ZDR3cmp1ZXNieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zWf8j3VWtzeKYQdcdK/giphy.gif)
 
 # Dataset has been used:
 
